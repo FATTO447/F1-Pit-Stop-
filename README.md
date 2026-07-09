@@ -47,5 +47,3 @@ As part of my continuous deep-dive into **Deep Learning**, I am currently expand
 * **1D-CNN Telemetry Analysis:** Implementing basic Convolutional Neural Networks to analyze raw continuous telemetry streams to identify subtle vehicle performance drops.
 
 ---
-
-## 🔧 Installation & Setup
