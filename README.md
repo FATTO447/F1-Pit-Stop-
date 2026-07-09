@@ -2,7 +2,7 @@
 
 An advanced, end-to-end race simulation and strategy dashboard designed to predict the optimal pit stop windows in Formula 1 racing. By combining historical data, predictive modeling, and live telemetry, this project bridges the gap between complex sports analytics and intuitive web design.
 
-![Dashboard Preview](https://pit-stop-predictor--hollaftta.replit.app/) 
+https://pit-stop-predictor--hollaftta.replit.app/
 
 ---
 
